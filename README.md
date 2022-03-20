@@ -10,10 +10,11 @@ powinieneś ją nie tylko znać, ale ją mieć.
 ## Cel
 
 znając warunki zewnętrzne, ograniczenia w obszarze:
-+ informacji (propagandy),
-+ obszaru, zasięgu oddziaływania
-+ szczebli administracyjnych
-można budować stabilniejszą i niezależną strukturę społeczną.
++ informacji -> propagandy,
++ obszaru -> zasięgu oddziaływania,
++ szczebli administracyjnych -> ograniczeń i przywilejów podpartch (lub nie) władzą wykonawczą
+
+można budować stabilniejszą i niezależną strukturę społeczną, minimalizując zależność i podległość centralnej skorumpowanej strukturze. 
 
 
 ## Czas zmian
