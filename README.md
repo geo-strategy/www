@@ -18,7 +18,7 @@ można budować stabilniejszą i niezależną strukturę społeczną.
 
 ## Czas zmian
 
-Od dekady dokonuje się trwała zmiana arcghitektury społeczeństw, polegająca na wprowadzania planów globalnych zmian społeczeństwa.
+Od dekady dokonuje się trwała zmiana architektury społeczeństw, polegająca na wprowadzania planów globalnych zmian społeczeństwa.
 
 Jakiekolwiek zdarzenia miały i będą miały miejsce, istotne jest stworzenie własnej zaufanej sieci spoełcznej, umacnianie jej poprzez wprowadzanie niezależnych rozwiązań w każdej dziedzinie życia społeczności, jak:
 
