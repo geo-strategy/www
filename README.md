@@ -9,7 +9,10 @@ powinieneś ją nie tylko znać, ale ją mieć.
 
 ## Cel
 
-znając warunki zewnętrzne, ograniczenia w obsZarze informacji (propagandy), budżetowe, terenowe, administracyjne
+znając warunki zewnętrzne, ograniczenia w obszarze:
++ informacji (propagandy),
++ obszaru, zasięgu oddziaływania
++ szczebli administracyjnych
 można budować stabilniejszą i niezależną strukturę społeczną.
 
 
